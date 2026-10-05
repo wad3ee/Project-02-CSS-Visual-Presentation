@@ -1,0 +1,38 @@
+.swatch {
+    width: 250px;
+    height: 80px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.named-color {
+    background-color: red;
+}
+
+.hex-color {
+    background-color: #00FF00;
+}
+
+.rgb-color {
+    background-color: rgb(0, 0, 255);
+}
+
+.rgba-color {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.comparison {
+    width: 300px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.opacity-example {
+    background-color: blue;
+    opacity: 0.5;
+}
+
+.rgba-example {
+    background-color: rgba(0, 0, 255, 0.5);
+}
