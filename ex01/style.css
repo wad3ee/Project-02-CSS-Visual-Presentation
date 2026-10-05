@@ -1,0 +1,30 @@
+/* style.css */
+.nav-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+
+.card-container {
+    position: relative;
+}
+
+.card {
+    position: relative;
+}
+
+.notification-badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 2;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 10;
+}
